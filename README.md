@@ -1,3 +1,7 @@
-# basoglu.co
+# Basoglu Familly Hub
 
-Through this domain, my subdomains with basoglu.co will be configured by Google Adsense to be monetized.
+This is the Basoglu Family Hub website created to introduce all the websites tied to the Basoglu family, connecting them through one hub.
+
+# Author
+
+Batuhan Başoğlu
